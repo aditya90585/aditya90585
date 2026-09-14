@@ -123,11 +123,11 @@ Worked on responsive React.js applications, reusable UI components, Firebase int
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya90585&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya90585&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya90585&show_icons=true&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya90585&layout=compact&hide_border=true&langs_count=8" width="42%" />
 </p>
 
 ---
