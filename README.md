@@ -125,7 +125,9 @@ Worked on responsive React.js applications, reusable UI components, Firebase int
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditya90585)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aditya90585&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
